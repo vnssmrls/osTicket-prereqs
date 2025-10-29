@@ -65,7 +65,6 @@ Now download the osTicket installation files and move them to your IIS web direc
 <p>
 <img src="https://i.imgur.com/9FoJ5jz.png" height="80%" width="80%" alt="osTicket installer"/>
 </p>
-<p>
 <br />
 
 <p>
@@ -74,5 +73,9 @@ You're almost done! Download the HeidiSQL application and connect it to your osT
 <p>
 <img src="https://i.imgur.com/jKnhGN0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>You are now ready to explore the system, create and assign tickets, complete and resolve tasks, or simply practice as an admin or end user within this powerful ticketing platform.</p>
+<br />
+
+<p>
+You are now ready to explore the system, create and assign tickets, complete and resolve tasks, or simply practice as an admin or end user within this powerful ticketing platform.
+</p>
 <br />
